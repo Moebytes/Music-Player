@@ -2,8 +2,7 @@
    
 <img src="assets/images/readme.png">
 
-This is a music player that can apply cool effects such as reversing, time stretching, and pitch shifting in real-time.
-It's basically the GUI version of my [Music Player Web](https://github.com/Moebits/musicplayer.moe) site.
+This is a simple music player app.
 
 ### Features:
 - Play audio (MP3, WAV) and MIDI files
@@ -48,3 +47,4 @@ Open an issue on my GitHub repository.
 
 - [Photo Viewer](https://github.com/Moebits/Photo-Viewer)
 - [Video Player](https://github.com/Moebits/Video-Player)
+
