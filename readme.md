@@ -30,13 +30,13 @@ This is a simple music player app.
 
 ### Installation
 
-Download the latest installer from the [releases](https://github.com/Moebits/Music-Player/releases) tab. Updates can be installed automatically.
+Download the latest installer from the [releases](https://github.com/Moebytes/Music-Player/releases) tab. Updates can be installed automatically.
 
 ### MacOS
 
 On MacOS unsigned applications won't open, run this to remove the quarantine flag.
 ```
-xattr -d com.apple.quarantine /Applications/Music\ Player.app
+xattr -d com.apple.quarantine "/Applications/Music Player.app"
 ```
 
 ### Bugs and Requests
@@ -45,6 +45,7 @@ Open an issue on my GitHub repository.
 
 ### Also See
 
-- [Photo Viewer](https://github.com/Moebits/Photo-Viewer)
-- [Video Player](https://github.com/Moebits/Video-Player)
+- [Photo Viewer](https://github.com/Moebytes/Photo-Viewer)
+- [Video Player](https://github.com/Moebytes/Video-Player)
+
 
