@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moebits/Music-Player"
+    "url": "https://github.com/Moebytes/Music-Player"
   },
   "build": {
-    "appId": "com.moebits.music-player",
+    "appId": "com.moebytes.music-player",
     "productName": "Music Player",
     "icon": "./assets/icon.png",
     "directories": {
@@ -88,7 +88,7 @@
     "publish": {
       "provider": "github",
       "repo": "Music-Player",
-      "owner": "Moebits",
+      "owner": "Moebytes",
       "releaseType": "draft"
     },
     "fileAssociations": [
@@ -118,7 +118,7 @@
       }
     ]
   },
-  "author": "Moebits",
+  "author": "Moebytes",
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^17.0.0",
@@ -164,3 +164,4 @@
     "youtube.ts": "^0.3.2"
   }
 }
+
