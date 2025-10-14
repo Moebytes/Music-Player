@@ -1,6 +1,6 @@
 {
   "name": "music-player",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "A music player with real-time pitch shifting, reversing, and time stretching",
   "main": "dist/main.js",
   "scripts": {
@@ -157,12 +157,10 @@
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1",
-    "react-slider": "^2.0.6",
+    "react-slider": "github:Moestash/react-slider",
     "soundcloud.ts": "^0.4.1",
     "tone": "^14.7.39",
     "web-audio-beat-detector": "^8.2.13",
     "youtube.ts": "^0.3.2"
   }
 }
-
-
